@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"outDir": "./dist",
+		"module": "esnext",
+		"target": "esnext",
+		"strict": true,
+		"exactOptionalPropertyTypes": true
+	},
+	"include": [
+		"*/*.ts"
+	],
+	"ts-node": {
+		"files": true
+	}
+}
